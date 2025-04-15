@@ -44,13 +44,10 @@
 ###   2. Now, Calculate VCd using the scale of the diagram 
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
-![Screenshot 2025-04-15 113704](https://github.com/user-attachments/assets/8913f252-0a88-4d19-9336-21fd9fde555a)
-![Screenshot 2025-04-15 113559](https://github.com/user-attachments/assets/b2586f56-cca4-44a2-a780-7422a7a6e8bb)
-
-
-
 ## Output:
+![Screenshot 2025-04-15 113704](https://github.com/user-attachments/assets/8913f252-0a88-4d19-9336-21fd9fde555a)
 
+![Screenshot 2025-04-15 113559](https://github.com/user-attachments/assets/b2586f56-cca4-44a2-a780-7422a7a6e8bb)
 
 ### Name:Deepshika hemanth kumar
 ### Register Number: 212224220020
